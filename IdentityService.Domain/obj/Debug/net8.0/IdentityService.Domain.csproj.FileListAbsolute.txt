@@ -1,0 +1,11 @@
+C:\Ecommerce\IdentityService.Domain\bin\Debug\net8.0\IdentityService.Domain.deps.json
+C:\Ecommerce\IdentityService.Domain\bin\Debug\net8.0\IdentityService.Domain.dll
+C:\Ecommerce\IdentityService.Domain\bin\Debug\net8.0\IdentityService.Domain.pdb
+C:\Ecommerce\IdentityService.Domain\obj\Debug\net8.0\IdentityService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ecommerce\IdentityService.Domain\obj\Debug\net8.0\IdentityService.Domain.AssemblyInfoInputs.cache
+C:\Ecommerce\IdentityService.Domain\obj\Debug\net8.0\IdentityService.Domain.AssemblyInfo.cs
+C:\Ecommerce\IdentityService.Domain\obj\Debug\net8.0\IdentityService.Domain.csproj.CoreCompileInputs.cache
+C:\Ecommerce\IdentityService.Domain\obj\Debug\net8.0\IdentityService.Domain.dll
+C:\Ecommerce\IdentityService.Domain\obj\Debug\net8.0\refint\IdentityService.Domain.dll
+C:\Ecommerce\IdentityService.Domain\obj\Debug\net8.0\IdentityService.Domain.pdb
+C:\Ecommerce\IdentityService.Domain\obj\Debug\net8.0\ref\IdentityService.Domain.dll

@@ -1,0 +1,11 @@
+C:\ECommerce\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\ECommerce\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\ECommerce\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\ECommerce\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\ECommerce\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\ECommerce\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\ECommerce\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\ECommerce\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\ECommerce\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\ECommerce\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\ECommerce\Contracts\obj\Debug\net8.0\ref\Contracts.dll

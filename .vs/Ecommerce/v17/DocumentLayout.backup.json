@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77815AE6-F9C8-426C-BFAD-5321F4F29415}|PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj|c:\\ecommerce\\paymentservice.infrastructure\\messaging\\ordercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77815AE6-F9C8-426C-BFAD-5321F4F29415}|PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj|solutionrelative:paymentservice.infrastructure\\messaging\\ordercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97E44E6-B89B-44F7-8AF1-FEAED26B3F4F}|OrderingService.Infrastructure\\OrderingService.Infrastructure.csproj|c:\\ecommerce\\orderingservice.infrastructure\\messaging\\paymentresultconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97E44E6-B89B-44F7-8AF1-FEAED26B3F4F}|OrderingService.Infrastructure\\OrderingService.Infrastructure.csproj|solutionrelative:orderingservice.infrastructure\\messaging\\paymentresultconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6811EC-3DC0-4917-A318-64CE0D33E0A5}|PaymentService.Application\\PaymentService.Application.csproj|c:\\ecommerce\\paymentservice.application\\usecase\\paymentusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6811EC-3DC0-4917-A318-64CE0D33E0A5}|PaymentService.Application\\PaymentService.Application.csproj|solutionrelative:paymentservice.application\\usecase\\paymentusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55831E83-FD5B-4CC7-AD8A-F7190E753A98}|OrderingService.Application\\OrderingService.Application.csproj|c:\\ecommerce\\orderingservice.application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55831E83-FD5B-4CC7-AD8A-F7190E753A98}|OrderingService.Application\\OrderingService.Application.csproj|solutionrelative:orderingservice.application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77815AE6-F9C8-426C-BFAD-5321F4F29415}|PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj|c:\\ecommerce\\paymentservice.infrastructure\\messaging\\paymentpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77815AE6-F9C8-426C-BFAD-5321F4F29415}|PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj|solutionrelative:paymentservice.infrastructure\\messaging\\paymentpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6811EC-3DC0-4917-A318-64CE0D33E0A5}|PaymentService.Application\\PaymentService.Application.csproj|c:\\ecommerce\\paymentservice.application\\interfaces\\ipaymentusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6811EC-3DC0-4917-A318-64CE0D33E0A5}|PaymentService.Application\\PaymentService.Application.csproj|solutionrelative:paymentservice.application\\interfaces\\ipaymentusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55831E83-FD5B-4CC7-AD8A-F7190E753A98}|OrderingService.Application\\OrderingService.Application.csproj|c:\\ecommerce\\orderingservice.application\\usecase\\orderusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55831E83-FD5B-4CC7-AD8A-F7190E753A98}|OrderingService.Application\\OrderingService.Application.csproj|solutionrelative:orderingservice.application\\usecase\\orderusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A659AB-27F8-422D-9A2D-4256BF8112FA}|OrderingService.WebApi\\OrderingService.WebApi.csproj|c:\\ecommerce\\orderingservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A659AB-27F8-422D-9A2D-4256BF8112FA}|OrderingService.WebApi\\OrderingService.WebApi.csproj|solutionrelative:orderingservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97E44E6-B89B-44F7-8AF1-FEAED26B3F4F}|OrderingService.Infrastructure\\OrderingService.Infrastructure.csproj|c:\\ecommerce\\orderingservice.infrastructure\\messaging\\paymentresultconsumerbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97E44E6-B89B-44F7-8AF1-FEAED26B3F4F}|OrderingService.Infrastructure\\OrderingService.Infrastructure.csproj|solutionrelative:orderingservice.infrastructure\\messaging\\paymentresultconsumerbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55831E83-FD5B-4CC7-AD8A-F7190E753A98}|OrderingService.Application\\OrderingService.Application.csproj|c:\\ecommerce\\orderingservice.application\\interfaces\\iorderusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55831E83-FD5B-4CC7-AD8A-F7190E753A98}|OrderingService.Application\\OrderingService.Application.csproj|solutionrelative:orderingservice.application\\interfaces\\iorderusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92ABAC2-CE66-464D-9B51-4B7B697D02B9}|OrderingService.Domain\\OrderingService.Domain.csproj|c:\\ecommerce\\orderingservice.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92ABAC2-CE66-464D-9B51-4B7B697D02B9}|OrderingService.Domain\\OrderingService.Domain.csproj|solutionrelative:orderingservice.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97E44E6-B89B-44F7-8AF1-FEAED26B3F4F}|OrderingService.Infrastructure\\OrderingService.Infrastructure.csproj|c:\\ecommerce\\orderingservice.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97E44E6-B89B-44F7-8AF1-FEAED26B3F4F}|OrderingService.Infrastructure\\OrderingService.Infrastructure.csproj|solutionrelative:orderingservice.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38467FA-CAAA-4F9D-9023-E8E1EABA2300}|Contracts\\OrderingService.Contracts.csproj|c:\\ecommerce\\contracts\\events\\paymentfailed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38467FA-CAAA-4F9D-9023-E8E1EABA2300}|Contracts\\OrderingService.Contracts.csproj|solutionrelative:contracts\\events\\paymentfailed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BB6993-492B-430B-8245-388AB349B57E}|PaymentService.Contracts\\PaymentService.Contracts.csproj|c:\\ecommerce\\paymentservice.contracts\\events\\ordercreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BB6993-492B-430B-8245-388AB349B57E}|PaymentService.Contracts\\PaymentService.Contracts.csproj|solutionrelative:paymentservice.contracts\\events\\ordercreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentPublisher.cs",
+              "DocumentMoniker": "C:\\Ecommerce\\PaymentService.Infrastructure\\Messaging\\PaymentPublisher.cs",
+              "RelativeDocumentMoniker": "PaymentService.Infrastructure\\Messaging\\PaymentPublisher.cs",
+              "ToolTip": "C:\\Ecommerce\\PaymentService.Infrastructure\\Messaging\\PaymentPublisher.cs",
+              "RelativeToolTip": "PaymentService.Infrastructure\\Messaging\\PaymentPublisher.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAwwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T09:07:10.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderCreatedConsumer.cs",
+              "DocumentMoniker": "C:\\Ecommerce\\PaymentService.Infrastructure\\Messaging\\OrderCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "PaymentService.Infrastructure\\Messaging\\OrderCreatedConsumer.cs",
+              "ToolTip": "C:\\Ecommerce\\PaymentService.Infrastructure\\Messaging\\OrderCreatedConsumer.cs",
+              "RelativeToolTip": "PaymentService.Infrastructure\\Messaging\\OrderCreatedConsumer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T08:20:26.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentResultConsumer.cs",
+              "DocumentMoniker": "C:\\Ecommerce\\OrderingService.Infrastructure\\Messaging\\PaymentResultConsumer.cs",
+              "RelativeDocumentMoniker": "OrderingService.Infrastructure\\Messaging\\PaymentResultConsumer.cs",
+              "ToolTip": "C:\\Ecommerce\\OrderingService.Infrastructure\\Messaging\\PaymentResultConsumer.cs",
+              "RelativeToolTip": "OrderingService.Infrastructure\\Messaging\\PaymentResultConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:08:34.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Ecommerce\\OrderingService.Application\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderingService.Application\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Ecommerce\\OrderingService.Application\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "OrderingService.Application\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:04:09.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentUseCase.cs",
+              "DocumentMoniker": "C:\\Ecommerce\\PaymentService.Application\\UseCase\\PaymentUseCase.cs",
+              "RelativeDocumentMoniker": "PaymentService.Application\\UseCase\\PaymentUseCase.cs",
+              "ToolTip": "C:\\Ecommerce\\PaymentService.Application\\UseCase\\PaymentUseCase.cs",
+              "RelativeToolTip": "PaymentService.Application\\UseCase\\PaymentUseCase.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:32:08.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPaymentUseCase.cs",
+              "DocumentMoniker": "C:\\ECommerce\\PaymentService.Application\\Interfaces\\IPaymentUseCase.cs",
+              "RelativeDocumentMoniker": "PaymentService.Application\\Interfaces\\IPaymentUseCase.cs",
+              "ToolTip": "C:\\ECommerce\\PaymentService.Application\\Interfaces\\IPaymentUseCase.cs",
+              "RelativeToolTip": "PaymentService.Application\\Interfaces\\IPaymentUseCase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T09:14:07.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Ecommerce\\OrderingService.Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "OrderingService.Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Ecommerce\\OrderingService.Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "OrderingService.Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:19:14.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ecommerce\\OrderingService.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "OrderingService.WebApi\\Program.cs",
+              "ToolTip": "C:\\Ecommerce\\OrderingService.WebApi\\Program.cs",
+              "RelativeToolTip": "OrderingService.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T07:31:25.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderUseCase.cs",
+              "DocumentMoniker": "C:\\Ecommerce\\OrderingService.Application\\UseCase\\OrderUseCase.cs",
+              "RelativeDocumentMoniker": "OrderingService.Application\\UseCase\\OrderUseCase.cs",
+              "ToolTip": "C:\\Ecommerce\\OrderingService.Application\\UseCase\\OrderUseCase.cs",
+              "RelativeToolTip": "OrderingService.Application\\UseCase\\OrderUseCase.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:03:48.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentResultConsumerBackgroundService.cs",
+              "DocumentMoniker": "C:\\Ecommerce\\OrderingService.Infrastructure\\Messaging\\PaymentResultConsumerBackgroundService.cs",
+              "RelativeDocumentMoniker": "OrderingService.Infrastructure\\Messaging\\PaymentResultConsumerBackgroundService.cs",
+              "ToolTip": "C:\\Ecommerce\\OrderingService.Infrastructure\\Messaging\\PaymentResultConsumerBackgroundService.cs",
+              "RelativeToolTip": "OrderingService.Infrastructure\\Messaging\\PaymentResultConsumerBackgroundService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAmwFQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T07:44:34.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderUseCase.cs",
+              "DocumentMoniker": "C:\\Ecommerce\\OrderingService.Application\\Interfaces\\IOrderUseCase.cs",
+              "RelativeDocumentMoniker": "OrderingService.Application\\Interfaces\\IOrderUseCase.cs",
+              "ToolTip": "C:\\Ecommerce\\OrderingService.Application\\Interfaces\\IOrderUseCase.cs",
+              "RelativeToolTip": "OrderingService.Application\\Interfaces\\IOrderUseCase.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T05:56:52.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Ecommerce\\OrderingService.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderingService.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Ecommerce\\OrderingService.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "OrderingService.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:04:47.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentFailed.cs",
+              "DocumentMoniker": "C:\\Ecommerce\\Contracts\\Events\\PaymentFailed.cs",
+              "RelativeDocumentMoniker": "Contracts\\Events\\PaymentFailed.cs",
+              "ToolTip": "C:\\Ecommerce\\Contracts\\Events\\PaymentFailed.cs",
+              "RelativeToolTip": "Contracts\\Events\\PaymentFailed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T05:56:00.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderCreated.cs",
+              "DocumentMoniker": "C:\\Ecommerce\\PaymentService.Contracts\\Events\\OrderCreated.cs",
+              "RelativeDocumentMoniker": "PaymentService.Contracts\\Events\\OrderCreated.cs",
+              "ToolTip": "C:\\Ecommerce\\PaymentService.Contracts\\Events\\OrderCreated.cs",
+              "RelativeToolTip": "PaymentService.Contracts\\Events\\OrderCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T05:54:05.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

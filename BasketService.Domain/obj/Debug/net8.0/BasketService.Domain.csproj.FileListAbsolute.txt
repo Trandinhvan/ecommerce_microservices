@@ -1,0 +1,11 @@
+C:\Ecommerce\BasketService.Domain\bin\Debug\net8.0\BasketService.Domain.deps.json
+C:\Ecommerce\BasketService.Domain\bin\Debug\net8.0\BasketService.Domain.dll
+C:\Ecommerce\BasketService.Domain\bin\Debug\net8.0\BasketService.Domain.pdb
+C:\Ecommerce\BasketService.Domain\obj\Debug\net8.0\BasketService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ecommerce\BasketService.Domain\obj\Debug\net8.0\BasketService.Domain.AssemblyInfoInputs.cache
+C:\Ecommerce\BasketService.Domain\obj\Debug\net8.0\BasketService.Domain.AssemblyInfo.cs
+C:\Ecommerce\BasketService.Domain\obj\Debug\net8.0\BasketService.Domain.csproj.CoreCompileInputs.cache
+C:\Ecommerce\BasketService.Domain\obj\Debug\net8.0\BasketService.Domain.dll
+C:\Ecommerce\BasketService.Domain\obj\Debug\net8.0\refint\BasketService.Domain.dll
+C:\Ecommerce\BasketService.Domain\obj\Debug\net8.0\BasketService.Domain.pdb
+C:\Ecommerce\BasketService.Domain\obj\Debug\net8.0\ref\BasketService.Domain.dll

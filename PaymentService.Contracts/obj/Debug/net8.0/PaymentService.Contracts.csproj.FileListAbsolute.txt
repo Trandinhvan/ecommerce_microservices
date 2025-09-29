@@ -1,0 +1,11 @@
+C:\ECommerce\PaymentService.Contracts\bin\Debug\net8.0\PaymentService.Contracts.deps.json
+C:\ECommerce\PaymentService.Contracts\bin\Debug\net8.0\PaymentService.Contracts.dll
+C:\ECommerce\PaymentService.Contracts\bin\Debug\net8.0\PaymentService.Contracts.pdb
+C:\ECommerce\PaymentService.Contracts\obj\Debug\net8.0\PaymentService.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\ECommerce\PaymentService.Contracts\obj\Debug\net8.0\PaymentService.Contracts.AssemblyInfoInputs.cache
+C:\ECommerce\PaymentService.Contracts\obj\Debug\net8.0\PaymentService.Contracts.AssemblyInfo.cs
+C:\ECommerce\PaymentService.Contracts\obj\Debug\net8.0\PaymentService.Contracts.csproj.CoreCompileInputs.cache
+C:\ECommerce\PaymentService.Contracts\obj\Debug\net8.0\PaymentService.Contracts.dll
+C:\ECommerce\PaymentService.Contracts\obj\Debug\net8.0\refint\PaymentService.Contracts.dll
+C:\ECommerce\PaymentService.Contracts\obj\Debug\net8.0\PaymentService.Contracts.pdb
+C:\ECommerce\PaymentService.Contracts\obj\Debug\net8.0\ref\PaymentService.Contracts.dll
