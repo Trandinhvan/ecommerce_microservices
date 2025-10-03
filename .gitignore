@@ -1,52 +1,95 @@
-# ======================
-# .NET  ASP.NET Core
-# ======================
-bin
-obj
-out
-.user
-.suo
-.userosscache
-.sln.docstates
-.DotSettings.user
-.vs
-.vscode
+# ========================
+# Visual Studio / .NET
+# ========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dotCover
+*.ncrunch*
+_ReSharper.*
+*.idea/
+*.vscode/
+*.dbmdl
+*.bak
+*.backup
+*.log
+*.sqlite
+*.pdb
+*.cache
+*.DS_Store
+bin/
+obj/
+TestResults/
+*.nupkg
+*.snk
+*.publishsettings
 
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# ========================
 # NuGet
-.nupkg
-.snupkg
-packages
-.nuget
-.nuget.
+# ========================
+*.nupkg
+*.snupkg
+*.nuspec
 project.lock.json
-project.fragment.lock.json
-artifacts
+packages/
+*.cache
 
-# Rider
-.idea
+# ========================
+# ASP.NET Core / Entity Framework
+# ========================
+appsettings.*.json
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+*.db
+*.db-shm
+*.db-wal
+migrations/
+*.log
 
-# ======================
-# React  Node
-# ======================
-node_modules
-dist
-build
+# ========================
+# Node / React / Vite
+# ========================
+node_modules/
+dist/
+build/
 .env
 .env.local
-.env.development.local
-.env.test.local
-.env.production.local
-npm-debug.log
-yarn-debug.log
-yarn-error.log
-pnpm-debug.log
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
-# ======================
-# OS  Editor
-# ======================
-.DS_Store
+# ========================
+# Docker
+# ========================
+docker-compose.override.yml
+*.dockerfile
+*.env
+
+# ========================
+# Redis / RabbitMQ / Cache
+# ========================
+dump.rdb
+*.rdb
+*.aof
+*.pid
+rabbitmq/*.pid
+rabbitmq/*.log
+
+# ========================
+# Misc / OS
+# ========================
 Thumbs.db
-.swp
-.swo
-.bak
-.tmp
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.swo
