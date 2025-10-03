@@ -1,6 +1,0 @@
-@SearchService.WebApi_HostAddress = http://localhost:5250
-
-GET {{SearchService.WebApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
