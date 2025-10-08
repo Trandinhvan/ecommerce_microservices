@@ -9,9 +9,21 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//Azure
-builder.Services.AddDbContext<DbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+// Add Infrastructure & Database Context
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"),
+        sqlServerOptionsAction: sqlOptions =>
+        {
+            // Bật cơ chế tự động thử lại (Transient Error Resiliency)
+            // Thời gian chờ được đặt 120 giây để xử lý tình huống DB Serverless bị Tạm dừng (Paused)
+            sqlOptions.EnableRetryOnFailure(
+                maxRetryCount: 15, // Tối đa 15 lần thử lại
+                maxRetryDelay: TimeSpan.FromSeconds(120), // Tổng thời gian chờ tích lũy là 120 giây
+                errorNumbersToAdd: null
+            );
+        }));
+
+// --- END: CLEANUP & ADD RETRY LOGIC ---
 
 
 // CORS
