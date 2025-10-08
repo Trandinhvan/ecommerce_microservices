@@ -9,6 +9,11 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//Azure
+builder.Services.AddDbContext<DbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
 // CORS
 builder.Services.AddCors(options =>
 {
